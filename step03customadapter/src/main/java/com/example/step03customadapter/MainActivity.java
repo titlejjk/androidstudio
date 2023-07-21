@@ -1,14 +1,18 @@
 package com.example.step03customadapter;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener {
 
 
     //필드
@@ -56,5 +60,21 @@ public class MainActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.listView);
         //adapter 연결
         listView.setAdapter(adapter);
+        //listView에 아이템 클릭 리스너 등록
+        listView.setOnItemClickListener(this);
+    }
+
+    @Override
+    public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+        //DetailActivity로 이동
+
+        //DetailActivity로 이동할 Intent객체 생성하기
+        Intent intent =new Intent(this, DetailActivity.class);
+       //클릭한 셀에 있는 나라의 정보.
+        Serializable dto=countries.get(i);
+        //Intent객체에 "dto"라는 키값으로 Serializable type인 CountryDto객체의 참조값
+        intent.putExtra("dto", dto);
+        //startActivity()메서드를 호출하면서 Intent객체를 전달해서 Activity시작
+        startActivity(intent);
     }
 }
