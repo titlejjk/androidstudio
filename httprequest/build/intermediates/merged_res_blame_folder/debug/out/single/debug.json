@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.httprequest-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.httprequest-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/jojungeun/.gradle/daemon/8.0/com.example.httprequest-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
