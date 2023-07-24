@@ -24,7 +24,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:id="@+id/inputUrl"
-            android:text="http://acornacademy.co.kr/index.jsp"/>
+            android:text="https://acornacademy.co.kr/index.jsp"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
